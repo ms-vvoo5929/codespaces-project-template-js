@@ -27,9 +27,12 @@ const siteProps = {
   name: "Chao-Hsiang , Tu",
   title: "Microsoft Student Ambassador",
   email: "ChaoHsiang.Tu@studentambassadors.com",
-  country: "Taiwan (R.O.C.)",
   gitHub: "https://github.com/ms-vvoo5929/",
-  microsoft: "https://mvp.microsoft.com/zh-TW/studentambassadors/profile/2c693a1e-519b-4925-b8fa-2b56e780c9f9",
+  instagram: "",
+  linkedIn: "",
+  medium: "https://mvp.microsoft.com/zh-TW/studentambassadors/profile/2c693a1e-519b-4925-b8fa-2b56e780c9f9",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";

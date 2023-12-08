@@ -7,7 +7,7 @@
 
 import React from "react";
 import arrowSvg from "../images/MLSA.jpg";
-import PropTypes from "MLSA";
+import PropTypes from "prop-types";
 
 /**
  * Home background image
